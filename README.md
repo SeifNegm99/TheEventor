@@ -15,6 +15,7 @@ Documentation and Software Diagrams for the project is included.
 the following is the table of contents of the documentation word file: 
 
 Table of Contents
+
 Chapter 1:	Introduction & Problem Overview	7
 1.1	Background & Statement of the Problem:	7
 1.2	Project purpose	7
@@ -22,10 +23,12 @@ Chapter 1:	Introduction & Problem Overview	7
 1.4	Our Project Survey	8
 1.4.1	Discussion of the survey	13
 1.5	Product Features	15
+
 Chapter 2:	Project Requirements	16
 2.1	Requirements Gathering	16
 2.1.1	Functional Requirements	16
 2.1.2	Non-Functional Requirements	18
+
 Chapter 3:	Project Diagrams	19
 3.1	Structural Diagrams	19
 3.1.1	Entity Relationship Diagram	19
@@ -35,6 +38,7 @@ Chapter 3:	Project Diagrams	19
 3.2.3	Workflow Diagram	22
 3.2.4	Activity Diagrams	23
 3.2.5	Sequence Diagrams:	29
+
 Chapter 4:	Project Implementation	34
 4.1	Implementation Tools	34
 4.1.1	Laravel:	34
@@ -45,6 +49,7 @@ Chapter 4:	Project Implementation	34
 4.1.6	JQuery	36
 4.1.7	MySQL database	37
 4.1.8	Tawk	37
+
 Chapter 5:	Project Testing	38
 5.1	Test Plan	38
 5.1.1	Introduction	38
@@ -57,6 +62,7 @@ Chapter 5:	Project Testing	38
 5.1.8	Features to be tested	40
 5.1.9	Testing Criteria	41
 5.2	Test Cases:	41
+
 Chapter 6:	Summary & Conclusions	45
 6.1	Summary of the Work	45
 6.2	Future Plans	45
